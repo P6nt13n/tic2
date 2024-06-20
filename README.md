@@ -1,2 +1,1 @@
-# tic2
-pour les tutoriel
+all python related projects are found here
